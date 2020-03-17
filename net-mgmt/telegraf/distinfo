@@ -1,4 +1,4 @@
-IMESTAMP = 1573640122
+TIMESTAMP = 1573640122
 SHA256 (influxdata-telegraf-1.12.5_GH0.tar.gz) = 842dabe6fd1a343a9f9e431c261d088687a7d1d9413682fc2e7e57024ce01033
 SIZE (influxdata-telegraf-1.12.5_GH0.tar.gz) = 1566183
 SHA256 (GoogleCloudPlatform-google-cloud-go-v0.27.0_GH0.tar.gz) = e3a9b4bba987211eeb8afaa9703c9264dc826292a20d71dd1660b94800c05314
